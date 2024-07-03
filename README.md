@@ -1,8 +1,10 @@
 # 오즈코딩 합동프로젝트 
 외국인과 함께하는 커뮤니티 사이트 
-### 프로젝트 github 주소 : <https://github.com/OZ-Coding-School/oz_01_collabo-005>
-### 프로젝트 소개서 : <https://legend-palm-1f1.notion.site/5-8c7d7dee51c3489fa8460080dc64341a>
-### 플로우 차트 : <https://www.figma.com/design/KGIUTKtbwi9QF4FffiwRFk/Front---%EA%B3%84%ED%9A%8D?node-id=0-1&t=wGdERNGrS51pXI32-1>
+#### 프로젝트 github 주소 : <https://github.com/OZ-Coding-School/oz_01_collabo-005>
+#### 프로젝트 소개서 : <https://legend-palm-1f1.notion.site/5-8c7d7dee51c3489fa8460080dc64341a>
+#### 플로우 차트 : <https://www.figma.com/design/KGIUTKtbwi9QF4FffiwRFk/Front---%EA%B3%84%ED%9A%8D?node-id=0-1&t=wGdERNGrS51pXI32-1>
+
+
 ## 프로젝트 소개 
 한국에 살고있는 외국인들과 한국인들의 소통공간을 만드는 사이트입니다. (참고사이트: 트레바리, 당근마켓)
 
