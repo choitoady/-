@@ -20,8 +20,8 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 1. 최신 모임 10개와 모임을 카테고리별로 메인화면에 보여주는 기능
 2. 회원가입 및 내 정보수정 기능
 3. 메뉴에서 모임개설하기를 통해 모임을 만드는 기능
-4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능 
-![모임가입후 게시글쓰기 (1) (1)](https://github.com/choitoady/collaboration-Project/assets/153695936/bf339664-245e-45ac-af07-dfdd2409ea0e)
+4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능
+<img width="1536" alt="모임화면스크린" src="https://github.com/choitoady/collaboration-Project/assets/153695936/bf339664-245e-45ac-af07-dfdd2409ea0e">
 
 ### 그 외 기능
 - 모임 홈 화면에서 최신 게시글, 일정, 멤버 보여주는 기능    
