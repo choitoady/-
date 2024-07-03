@@ -21,6 +21,7 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 2. 회원가입 및 내 정보수정 기능
 3. 메뉴에서 모임개설하기를 통해 모임을 만드는 기능
 4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능 
+![모입가입후 게시글쓰기]https://github.com/choitoady/collaboration-Project/blob/main/%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AE%20%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8A%E1%85%B3%E1%84%80%E1%85%B5.mp4
 
 ### 그 외 기능
 - 모임 홈 화면에서 최신 게시글, 일정, 멤버 보여주는 기능    
