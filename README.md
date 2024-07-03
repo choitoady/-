@@ -1,3 +1,5 @@
+
+
 # 오즈코딩 합동프로젝트 
 외국인과 함께하는 커뮤니티 사이트 
 #### 프로젝트 github 주소 : <https://github.com/OZ-Coding-School/oz_01_collabo-005>
@@ -24,12 +26,14 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 2. 회원가입 및 내 정보수정 기능
 3. 메뉴에서 모임개설하기를 통해 모임을 만드는 기능
 4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능
+
+
 <img width="360" alt="모임화면스크린" src="https://github.com/choitoady/collaboration-Project/assets/153695936/bf339664-245e-45ac-af07-dfdd2409ea0e">
 
 ### 그 외 기능
 - 모임 홈 화면에서 최신 게시글, 일정, 멤버 보여주는 기능    
 - 사람모양 버튼을 눌러 가입 멤버 보여주는 기능   
-- 이미지 업로드
+- 앨범에 이미지 업로드
 - 게시글에 댓글을 쓰는 기능(수정 및 삭제도 가능) 
 - 마이페이지(나의 모임)을 통해 가입한 모임과 그 모임의 게시글을 볼 수 있는 기능
 
