@@ -1,7 +1,8 @@
 # 오즈코딩 합동프로젝트 
 외국인과 함께하는 커뮤니티 사이트 
-<https://github.com/OZ-Coding-School/oz_01_collabo-005>
-
+### 프로젝트 github 주소 : <https://github.com/OZ-Coding-School/oz_01_collabo-005>
+### 프로젝트 소개서 : <https://legend-palm-1f1.notion.site/5-8c7d7dee51c3489fa8460080dc64341a>
+### 플로우 차트 : <https://www.figma.com/design/KGIUTKtbwi9QF4FffiwRFk/Front---%EA%B3%84%ED%9A%8D?node-id=0-1&t=wGdERNGrS51pXI32-1>
 ## 프로젝트 소개 
 한국에 살고있는 외국인들과 한국인들의 소통공간을 만드는 사이트입니다. (참고사이트: 트레바리, 당근마켓)
 
@@ -32,4 +33,14 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 
 
 ### 나의 역할 (프론트엔드 단에서 참여율 35%)
+- 게시판, 앨범, 일정, 홈 등을 볼 수 있는 "모임 화면” 과  내가 속한 모임과 그 속한 모임의 게시글을 볼 수 있는 "나의 모임 화면"을 만들었다. (페이지 2개)
+- “Navbar” 를 만들었다.
+-  페이지의 UI를 만들고, 서버와 통신을 통해서 사용자의 정보를 가져와 화면에 보이게 만드는 부분을 수행했다.
+-  flex와 Grid를 통해 정렬을 맞추고 조화롭게 배치하였다.
+-  Media Query 적용을 통해 반응형으로 화면이 깨지지 않도록 했다.
 
+
+### 결과 및 성과 
+- React 실습이 많이 부족한 상태에서 React를 많이 사용하는 경험을 통해 React가 익숙해졌고, HTTP통신을 할 수 있게 되었다.
+- 디자인에 대한 관심이 높아졌다.
+- 깃허브를 이용해 협업하는 방법을 배우고, 백엔드와 기획자 분들과 소통하는 법을 배웠다. 
