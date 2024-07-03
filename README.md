@@ -50,3 +50,6 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 - React 실습이 많이 부족한 상태에서 React를 많이 사용하는 경험을 통해 React가 익숙해졌고, HTTP통신을 할 수 있게 되었습니다.
 - 사용자가 보기에 깔끔하고 사용하기 편한 "디자인"에 대해 관심이 높아졌습니다.
 - 깃허브를 이용해 협업하는 방법을 배우고, 백엔드와 기획자 분들과 소통하는 법을 배웠습니다.
+
+### 과정 기록 
+<https://velog.io/@on_light/%ED%95%A9%EB%8F%99-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%8B%A4>
