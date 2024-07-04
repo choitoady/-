@@ -30,9 +30,9 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능
    
 https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56cb-4455-a617-72cd7bd4e959
-
+<p align="center">
 <img width="1240" alt="ff-album" src="https://github.com/choitoady/collaboration-Project/assets/153695936/ad58f13c-e663-48bd-a602-9f7e6e80f17e">
-
+</p>
 ![f938e720ad52b414](https://github.com/choitoady/collaboration-Project/assets/153695936/55b8c537-d770-4070-88fd-505313193c05)
 ### 그 외 기능
 - 모임 홈 화면에서 해당 모임의 최신 게시글, 일정, 멤버 보여주는 기능    
