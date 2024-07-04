@@ -27,8 +27,6 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 3. 메뉴에서 모임개설하기를 통해 모임을 만드는 기능
 4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능
 
-
-<img width="360" alt="모임화면스크린" src="https://github.com/choitoady/collaboration-Project/assets/153695936/bf339664-245e-45ac-af07-dfdd2409ea0e">
 <img width="1240" alt="ff-album" src="https://github.com/choitoady/collaboration-Project/assets/153695936/ad58f13c-e663-48bd-a602-9f7e6e80f17e">
 
 https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56cb-4455-a617-72cd7bd4e959
