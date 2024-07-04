@@ -28,10 +28,10 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 2. 회원가입 및 내 정보수정 기능
 3. 메뉴에서 모임개설하기를 통해 모임을 만드는 기능
 4. 모임 가입  + 모임화면에서 게시글을 쓰고, 일정을 만드는 기능
+   
+https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56cb-4455-a617-72cd7bd4e959
 
 <img width="1240" alt="ff-album" src="https://github.com/choitoady/collaboration-Project/assets/153695936/ad58f13c-e663-48bd-a602-9f7e6e80f17e">
-
-https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56cb-4455-a617-72cd7bd4e959
 
 ![f938e720ad52b414](https://github.com/choitoady/collaboration-Project/assets/153695936/55b8c537-d770-4070-88fd-505313193c05)
 ### 그 외 기능
