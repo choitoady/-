@@ -29,7 +29,9 @@ React, css, styleComponent, TypeScript, Axios, Bootstrap
 
 
 <img width="360" alt="모임화면스크린" src="https://github.com/choitoady/collaboration-Project/assets/153695936/bf339664-245e-45ac-af07-dfdd2409ea0e">
+<img width="1240" alt="ff-album" src="https://github.com/choitoady/collaboration-Project/assets/153695936/ad58f13c-e663-48bd-a602-9f7e6e80f17e">
 
+https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56cb-4455-a617-72cd7bd4e959
 ### 그 외 기능
 - 모임 홈 화면에서 해당 모임의 최신 게시글, 일정, 멤버 보여주는 기능    
 - 사람모양 버튼을 눌러 가입 멤버 모두를 보여주는 기능   
