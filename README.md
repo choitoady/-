@@ -33,7 +33,11 @@ https://github.com/choitoady/collaboration-Project/assets/153695936/c45efcaa-56c
 <p align="left">
 <img width="860" alt="ff-album" src="https://github.com/choitoady/collaboration-Project/assets/153695936/ad58f13c-e663-48bd-a602-9f7e6e80f17e">
 </p>
+
+
 ![f938e720ad52b414](https://github.com/choitoady/collaboration-Project/assets/153695936/55b8c537-d770-4070-88fd-505313193c05)
+
+
 ### 그 외 기능
 - 모임 홈 화면에서 해당 모임의 최신 게시글, 일정, 멤버 보여주는 기능    
 - 사람모양 버튼을 눌러 가입 멤버 모두를 보여주는 기능   
